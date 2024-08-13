@@ -1,0 +1,2 @@
+env/
+data/*.csv   # Excludes all CSV files in the data folder
